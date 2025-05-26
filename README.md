@@ -1,4 +1,4 @@
-# All the R script used to process the genome of `D. melanogaster`
+# All the R scripts used to process the genome of `D. melanogaster`
 
 `pqsfinderG4.R` is used to detect G4 structures from a genome
 
