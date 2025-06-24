@@ -1,4 +1,4 @@
-# All the R scripts used to process the genome of `D. melanogaster`
+# All the R scripts used to process the genome of *D. melanogaster*
 
 `pqsfinderG4.R` is used to detect G4 structures from a genome
 
@@ -6,8 +6,10 @@
 
 
 
-`nonSyn_Novel_Seq.R` is used to detect novel sequence from syri synteny results for `D. melanogaster` genome
+`nonSyn_Novel_Seq.R` is used to detect novel sequence from syri synteny results for *D. melanogaster* genome
 
 `ProteinFamilyEnrichmentFunction.R` is used to make enrichment analysis of protein families of the novel predicted genes
 
 `RepeatMasker_bin_enrichment.R` is make enrichment analysis of each genomic bin for different repeat families
+
+`syri_evolution_analysis.R` is the script used to do centromere evolution analysis based on SyRI
